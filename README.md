@@ -1,5 +1,7 @@
 # POT: Python Optimal Transport
 
+> **Fork notice**: This is a personal research fork of [PythonOT/POT](https://github.com/PythonOT/POT) (Python Optimal Transport). For the canonical upstream library, see https://github.com/PythonOT/POT. Modifications in this fork are experimental and not officially supported by the POT maintainers.
+
 [![PyPI version](https://badge.fury.io/py/POT.svg)](https://badge.fury.io/py/POT)
 [![Anaconda Cloud](https://anaconda.org/conda-forge/pot/badges/version.svg)](https://anaconda.org/conda-forge/pot)
 [![Build Status](https://github.com/PythonOT/POT/actions/workflows/build_tests.yml/badge.svg)](https://github.com/PythonOT/POT/actions)
